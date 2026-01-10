@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="KiteGames">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-2LHRIRO:DESKTOP-2LHRIRO\Ishtiaq Ahmed">
+          <Created>2026-01-09T19:10:13.9857127+06:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-2LHRIRO</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>PizzaHut</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="bounce_sessions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2LHRIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2LHRIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>bounce_sessions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="creating_database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2LHRIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2LHRIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>creating_database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="exploratory_analysis.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2LHRIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2LHRIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>exploratory_analysis.sql</FullPath>
+        </FileNode>
+        <FileNode Name="fixing_dataype.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2LHRIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2LHRIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>fixing_dataype.sql</FullPath>
+        </FileNode>
+        <FileNode Name="hypotheses_1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2LHRIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2LHRIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>hypotheses_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="hypotheses_2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2LHRIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2LHRIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>hypotheses_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="hypotheses_3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2LHRIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2LHRIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>hypotheses_3.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
