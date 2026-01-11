@@ -1,4 +1,4 @@
--- Hypotheses Testing- 1: Version Issue
+-- Hypotheses Testing- 2: Version Issue
 -- Null Hypothesis (H0)
 -- All app versions have the same bounce rate.
 -- Alternative Hypothesis (H1)

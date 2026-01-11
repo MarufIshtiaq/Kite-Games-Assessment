@@ -1,4 +1,4 @@
--- Hypotheses Testing- 1: Churn is caused by monetization friction (Free vs Pro)
+-- Hypotheses Testing- 3: Churn is caused by monetization friction (Free vs Pro)
 -- Null Hypothesis (H0)
 -- Subscription status has no effect on the bounce rate.
 -- Alternative Hypothesis (H1)
